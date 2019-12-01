@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{30495E37-128B-4BA0-811A-8E1E3B5E5201}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackOverflow/Program.cs">
+    <Files>
+      <File FileName="StackOverflow/Program.cs" Line="12" Column="32" />
+      <File FileName="StackOverflow/Post.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StackOverflow" expanded="True">
+            <Node name="StackOverflow" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.StackOverflow FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

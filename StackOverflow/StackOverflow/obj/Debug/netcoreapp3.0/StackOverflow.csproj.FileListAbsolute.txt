@@ -1,0 +1,11 @@
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/bin/Debug/netcoreapp3.0/StackOverflow
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/bin/Debug/netcoreapp3.0/StackOverflow.deps.json
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/bin/Debug/netcoreapp3.0/StackOverflow.runtimeconfig.json
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/bin/Debug/netcoreapp3.0/StackOverflow.runtimeconfig.dev.json
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/bin/Debug/netcoreapp3.0/StackOverflow.dll
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/bin/Debug/netcoreapp3.0/StackOverflow.pdb
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/obj/Debug/netcoreapp3.0/StackOverflow.csprojAssemblyReference.cache
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/obj/Debug/netcoreapp3.0/StackOverflow.AssemblyInfoInputs.cache
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/obj/Debug/netcoreapp3.0/StackOverflow.AssemblyInfo.cs
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/obj/Debug/netcoreapp3.0/StackOverflow.dll
+/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/obj/Debug/netcoreapp3.0/StackOverflow.pdb
