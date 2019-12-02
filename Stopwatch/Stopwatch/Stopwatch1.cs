@@ -12,25 +12,25 @@ namespace Stopwatch
         public void Start()
         {
             
-            if (this._start < this._stop)
+            if (_start < _stop)
             {
                 throw new InvalidOperationException("Invalid...");
             }
-            this._start = DateTime.Now;
+            _start = DateTime.Now;
 
         }
         public void Stop()
         {
             
-            if (this._start < this._stop)
+            if (_start < _stop)
             {
                 throw new InvalidOperationException("Invalid...");
             }
-            this._stop = DateTime.Now;
+            _stop = DateTime.Now;
         }
         public TimeSpan Duration()
         {
-            return _stop - this._start;
+            return _stop - _start;
         }
     }
 }

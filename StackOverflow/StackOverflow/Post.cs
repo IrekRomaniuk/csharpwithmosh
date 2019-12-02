@@ -3,27 +3,27 @@ namespace StackOverflow
 {
     public class Post
     {
-        private string Title { get; set; }
-        private string Description { get; set; }
-        private DateTime Created { get; set; }
-        private int Votes { get; set; }
+        private string _title;
+        private string _description;
+        private DateTime _created;
+        private int _votes { get; set; }
         public Post(string title, string desc)
         {
-            Created = DateTime.Now;
-            this.Title = title;
-            this.Description = desc;
+            _created = DateTime.Now;
+            _title = title;
+            _description = desc;
         }
         public void UpVote()
         {
-            this.Votes++;
+            _votes++;
         }
         public void DownVote()
         {
-            this.Votes--;
+            _votes--;
         }
         public void Show()
         {
-            Console.WriteLine("Title: {0} Desc: {1} Votes: {2}",this.Title, this.Description, this.Votes);
+            Console.WriteLine("Title: {0} Desc: {1} Votes: {2}",_title, _description, _votes);
         }
     }
 }
