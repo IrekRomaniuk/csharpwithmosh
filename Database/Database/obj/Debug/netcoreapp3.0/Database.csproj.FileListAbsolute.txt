@@ -1,0 +1,11 @@
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/bin/Debug/netcoreapp3.0/Database
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/bin/Debug/netcoreapp3.0/Database.deps.json
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/bin/Debug/netcoreapp3.0/Database.runtimeconfig.json
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/bin/Debug/netcoreapp3.0/Database.runtimeconfig.dev.json
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/bin/Debug/netcoreapp3.0/Database.dll
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/bin/Debug/netcoreapp3.0/Database.pdb
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/obj/Debug/netcoreapp3.0/Database.csprojAssemblyReference.cache
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/obj/Debug/netcoreapp3.0/Database.AssemblyInfoInputs.cache
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/obj/Debug/netcoreapp3.0/Database.AssemblyInfo.cs
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/obj/Debug/netcoreapp3.0/Database.dll
+/Users/irekromaniuk/Csharpwithmosh/Database/Database/obj/Debug/netcoreapp3.0/Database.pdb

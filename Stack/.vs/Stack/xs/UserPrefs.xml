@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{2161B50B-5FCD-4EC9-97C8-DE982E4DD867}|Default">
-  <MonoDevelop.Ide.ItemProperties.Stack FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Stack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Stack/Stack.cs">
     <Files>
-      <File FileName="Stack/Program.cs" Line="1" Column="1" />
-      <File FileName="Stack/Stack.cs" Line="8" Column="13" />
+      <File FileName="Stack/Program.cs" Line="16" Column="13" />
+      <File FileName="Stack/Stack.cs" Line="26" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
