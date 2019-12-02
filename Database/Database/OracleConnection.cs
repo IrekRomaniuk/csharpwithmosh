@@ -3,9 +3,9 @@ namespace Database
 {
     public class OracleConnection : DbConnection
     {
-        public OracleConnection(string connection) : base(connection)
+        public OracleConnection(string connectionstr) : base(connectionstr)
         {
-            Console.WriteLine("Initialize Oracle .. {0}", connection);
+            Console.WriteLine("Initialize Oracle .. {0}", connectionstr);
         }
         public override void Open()
         {

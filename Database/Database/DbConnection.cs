@@ -6,13 +6,13 @@ namespace Database
 
         private string _connectionString;
         private TimeSpan _timeout;
-        public  DbConnection(string connection)
+        public  DbConnection(string connectionstr)
         {
-            if (string.IsNullOrEmpty(connection)){
+            if (string.IsNullOrEmpty(connectionstr)){
                 throw new System.InvalidOperationException("Invalid ...");       
             }
-            this._connectionString = connection;
-            Console.WriteLine("Connection string: {0} verified", connection);
+            this._connectionString = connectionstr;
+            Console.WriteLine("Connection string: {0} verified", connectionstr);
         }
 
         public abstract void Open();
