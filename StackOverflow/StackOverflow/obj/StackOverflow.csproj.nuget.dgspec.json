@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/StackOverflow.csproj": {}
+    "/Users/irekromaniuk/csharpwithmosh/StackOverflow/StackOverflow/StackOverflow.csproj": {}
   },
   "projects": {
-    "/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/StackOverflow.csproj": {
+    "/Users/irekromaniuk/csharpwithmosh/StackOverflow/StackOverflow/StackOverflow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/StackOverflow.csproj",
+        "projectUniqueName": "/Users/irekromaniuk/csharpwithmosh/StackOverflow/StackOverflow/StackOverflow.csproj",
         "projectName": "StackOverflow",
-        "projectPath": "/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/StackOverflow.csproj",
+        "projectPath": "/Users/irekromaniuk/csharpwithmosh/StackOverflow/StackOverflow/StackOverflow.csproj",
         "packagesPath": "/Users/irekromaniuk/.nuget/packages/",
-        "outputPath": "/Users/irekromaniuk/Csharpwithmosh/StackOverflow/StackOverflow/obj/",
+        "outputPath": "/Users/irekromaniuk/csharpwithmosh/StackOverflow/StackOverflow/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "/Users/irekromaniuk/.config/NuGet/NuGet.Config"
         ],

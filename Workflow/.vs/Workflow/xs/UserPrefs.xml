@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{21407BD9-346B-4EB2-B8D6-E6BEB062D075}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workflow/Activity.cs">
+    <Files>
+      <File FileName="Workflow/Program.cs" Line="11" Column="17" />
+      <File FileName="Workflow/Workflow.cs" Line="17" Column="5" />
+      <File FileName="Workflow/Activity.cs" Line="4" Column="36" />
+      <File FileName="Workflow/IActivity.cs" Line="7" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Workflow" expanded="True">
+            <Node name="Workflow" expanded="True">
+              <Node name="Activity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Workflow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

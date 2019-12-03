@@ -1,0 +1,5 @@
+/Users/irekromaniuk/csharpwithmosh/Workflow/Workflow/bin/Debug/Workflow.exe
+/Users/irekromaniuk/csharpwithmosh/Workflow/Workflow/bin/Debug/Workflow.pdb
+/Users/irekromaniuk/csharpwithmosh/Workflow/Workflow/obj/Debug/Workflow.csprojAssemblyReference.cache
+/Users/irekromaniuk/csharpwithmosh/Workflow/Workflow/obj/Debug/Workflow.exe
+/Users/irekromaniuk/csharpwithmosh/Workflow/Workflow/obj/Debug/Workflow.pdb

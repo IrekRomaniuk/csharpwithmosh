@@ -8,21 +8,17 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/Users/irekromaniuk/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/irekromaniuk/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irekromaniuk/Csharpwithmosh/Stack/Stack/Stack.csproj",
+      "projectUniqueName": "/Users/irekromaniuk/csharpwithmosh/Stack/Stack/Stack.csproj",
       "projectName": "Stack",
-      "projectPath": "/Users/irekromaniuk/Csharpwithmosh/Stack/Stack/Stack.csproj",
+      "projectPath": "/Users/irekromaniuk/csharpwithmosh/Stack/Stack/Stack.csproj",
       "packagesPath": "/Users/irekromaniuk/.nuget/packages/",
-      "outputPath": "/Users/irekromaniuk/Csharpwithmosh/Stack/Stack/obj/",
+      "outputPath": "/Users/irekromaniuk/csharpwithmosh/Stack/Stack/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "/Users/irekromaniuk/.config/NuGet/NuGet.Config"
       ],

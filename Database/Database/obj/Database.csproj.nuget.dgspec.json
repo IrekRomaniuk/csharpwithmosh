@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "/Users/irekromaniuk/Csharpwithmosh/Database/Database/Database.csproj": {}
+    "/Users/irekromaniuk/csharpwithmosh/Database/Database/Database.csproj": {}
   },
   "projects": {
-    "/Users/irekromaniuk/Csharpwithmosh/Database/Database/Database.csproj": {
+    "/Users/irekromaniuk/csharpwithmosh/Database/Database/Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/irekromaniuk/Csharpwithmosh/Database/Database/Database.csproj",
+        "projectUniqueName": "/Users/irekromaniuk/csharpwithmosh/Database/Database/Database.csproj",
         "projectName": "Database",
-        "projectPath": "/Users/irekromaniuk/Csharpwithmosh/Database/Database/Database.csproj",
+        "projectPath": "/Users/irekromaniuk/csharpwithmosh/Database/Database/Database.csproj",
         "packagesPath": "/Users/irekromaniuk/.nuget/packages/",
-        "outputPath": "/Users/irekromaniuk/Csharpwithmosh/Database/Database/obj/",
+        "outputPath": "/Users/irekromaniuk/csharpwithmosh/Database/Database/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "/Users/irekromaniuk/.config/NuGet/NuGet.Config"
         ],
