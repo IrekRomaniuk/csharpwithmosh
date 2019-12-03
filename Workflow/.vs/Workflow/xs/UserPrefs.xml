@@ -1,17 +1,21 @@
 ﻿<Properties StartupConfiguration="{21407BD9-346B-4EB2-B8D6-E6BEB062D075}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Workflow/Activity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workflow/IActivity.cs">
     <Files>
-      <File FileName="Workflow/Program.cs" Line="11" Column="17" />
-      <File FileName="Workflow/Workflow.cs" Line="17" Column="5" />
-      <File FileName="Workflow/Activity.cs" Line="4" Column="36" />
-      <File FileName="Workflow/IActivity.cs" Line="7" Column="6" />
+      <File FileName="Workflow/Program.cs" Line="15" Column="57" />
+      <File FileName="Workflow/Workflow.cs" Line="23" Column="24" />
+      <File FileName="Workflow/IActivity.cs" Line="8" Column="22" />
+      <File FileName="Workflow/IWorkflowEngine.cs" Line="5" Column="37" />
+      <File FileName="Workflow/UploadVideoToCloud.cs" Line="9" Column="66" />
+      <File FileName="Workflow/CallAWebService.cs" Line="8" Column="149" />
+      <File FileName="Workflow/SendAnEmail.cs" Line="8" Column="121" />
+      <File FileName="Workflow/ChangeTheStatus.cs" Line="8" Column="85" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Workflow" expanded="True">
             <Node name="Workflow" expanded="True">
-              <Node name="Activity.cs" selected="True" />
+              <Node name="IActivity.cs" selected="True" />
             </Node>
           </Node>
         </State>

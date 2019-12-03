@@ -7,11 +7,16 @@ namespace Workflow
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            //private List<object> _obj = new List<object>();
-            var activity = new List<object> { "Upload..", "Call..", "Send..", "Change.." };
-            var workflow = new Workflow(new Activity());
-            workflow.Run(activity);
+            //based on https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/learn/lecture/3023250#questions/8280878
+            var workflow = new WorkflowEngine();
+
+            workflow.AddToWorkflow(new UploadVideoToCloud());
+            workflow.AddToWorkflow(new CallAWebService());
+            workflow.AddToWorkflow(new SendAnEmail());
+            workflow.AddToWorkflow(new ChangeTheStatus());
+
+            workflow.Run();
         }
     }
 }
+

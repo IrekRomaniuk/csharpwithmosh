@@ -33,8 +33,12 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Workflow.cs" />
-    <Compile Include="Activity.cs" />
     <Compile Include="IActivity.cs" />
+    <Compile Include="IWorkflowEngine.cs" />
+    <Compile Include="UploadVideoToCloud.cs" />
+    <Compile Include="CallAWebService.cs" />
+    <Compile Include="SendAnEmail.cs" />
+    <Compile Include="ChangeTheStatus.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

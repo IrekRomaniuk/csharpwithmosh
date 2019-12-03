@@ -3,19 +3,27 @@ using System.Collections.Generic;
 
 namespace Workflow
 {
-    public class Workflow
-    {        
-        private readonly IActivity _activity;
-        public Workflow(IActivity activity)
+    public class WorkflowEngine : IWorkflowEngine
+    {
+        private IList<IActivity> _activities;
+
+        public WorkflowEngine()
         {
-            _activity = activity;
+            _activities = new List<IActivity>();
         }
 
-        public void Run(List<object> obj)
+        public void Run()
         {
-            _activity.Execute(obj);
+            foreach (var activity in _activities)
+            {
+                activity.Execute();
+            }
         }
 
+        public void AddToWorkflow(IActivity activity)
+        {
+            _activities.Add(activity);
+        }
     }
-    
+
 }
